@@ -1,0 +1,15 @@
+.idea
+
+/bin/
+/build/
+tmp/
+
+vendor/*/
+vendor/modules.txt
+
+*.pprof
+*.exe
+*.disasm
+*.log
+*.test.go
+*.bak
